@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/afs/desy.de/user/a/arli/tutoria/pyroot_dic/header/head.h
+
+/afs/desy.de/user/a/arli/tutoria/pyroot_dic/main.C
+header/head.h
+/afs/desy.de/user/a/arli/tutoria/pyroot_dic/header/head.h
+iostream
+-
+
